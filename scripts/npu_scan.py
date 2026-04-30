@@ -10,7 +10,7 @@ from rknnlite.api import RKNNLite
 from pyzbar.pyzbar import decode
 
 # Настройки
-MODEL_PATH = '/home/user/best.rknn'
+MODEL_PATH = 'model/best.rknn'
 W, H = 1280, 736
 
 def order_points(pts):
