@@ -13,7 +13,7 @@
 
 | Исходная разметка (Labels) | Предсказания YOLOv8 (Predictions) |
 |:---:|:---:|
-| ![Labels](assets/val_batch1_labels.jpg) | ![Predictions](assets/val_batch1_preds.jpg) |
+| ![Labels](assets/val_batch1_labels.jpg) | ![Predictions](assets/val_batch1_pred.jpg) |
 
 Модель демонстрирует высокую точность (Confidence 1.0) в определении как самой рамки (Bounding Box), так и ключевых точек (Keypoints) углов QR-кода.
 ## 🛠 Стек технологий
