@@ -1,0 +1,6 @@
+opencv-python
+numpy
+pyzbar
+ultralytics
+# Для конвертации (на ПК): rknn-toolkit2 (устанавливается из репозитория Rockchip)
+# Для запуска (на Orange Pi): rknn-toolkit-lite2 (устанавливается из репозитория Rockchip)
